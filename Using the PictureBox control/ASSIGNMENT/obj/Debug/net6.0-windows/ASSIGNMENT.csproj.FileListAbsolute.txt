@@ -1,0 +1,17 @@
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\bin\Debug\net6.0-windows\ASSIGNMENT.exe
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\bin\Debug\net6.0-windows\ASSIGNMENT.deps.json
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\bin\Debug\net6.0-windows\ASSIGNMENT.runtimeconfig.json
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\bin\Debug\net6.0-windows\ASSIGNMENT.dll
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\bin\Debug\net6.0-windows\ASSIGNMENT.pdb
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.csproj.AssemblyReference.cache
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.Form1.resources
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.csproj.GenerateResource.cache
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.AssemblyInfoInputs.cache
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.AssemblyInfo.cs
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.csproj.CoreCompileInputs.cache
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.dll
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\refint\ASSIGNMENT.dll
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.pdb
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ASSIGNMENT.genruntimeconfig.cache
+E:\برمجه المرئيه\visual programming-async\Using the PictureBox control\ASSIGNMENT\obj\Debug\net6.0-windows\ref\ASSIGNMENT.dll
